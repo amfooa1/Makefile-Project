@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+      0	    780	      0	    780	    30c	../build/snake_effect.hex
